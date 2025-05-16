@@ -3,6 +3,13 @@
 A secure client-side vault for storing session data outside of localStorage or sessionStorage using self-hosting with docker.
 Designed to work with a self-hosted Dockerized backend that protects sensitive data from XSS and other client-side attacks.
 
+<br/>
+
+**Just a quick note: If previously you pulled the docker image that was ~943MB in size, a new update has been published with a compression size to ~8MB. We did just because we want a good minimal system that is easy to carry around.**
+
+<br/>
+
+
 [![npm downloads](https://img.shields.io/npm/dm/secure-session-vault-client)](https://www.npmjs.com/package/secure-session-vault-client)
 
 <br/>
